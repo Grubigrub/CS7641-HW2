@@ -1,5 +1,5 @@
 1. Neural Network weights Optimization
-========================================================================================================================================
+==============================================================================================
 
 To run the algorithm on the neural network, first use the command "source init.sh" in the jython directory. This will export the ABIGAL.jar in the CLASSPATH.
 Then simply run "jython waveform.py".
