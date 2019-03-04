@@ -5,7 +5,7 @@ To run the algorithm on the neural network, first use the command "source init.s
 Then simply run "jython waveform.py".
 
 2. Optimization Problem
-======================================================================================================================================
+==============================================================================================
 First use the command "source init.sh" in the jython directory. This will export the ABIGAL.jar in the CLASSPATH.
 
     a. First problem - Traveling salesman
@@ -25,8 +25,7 @@ First use the command "source init.sh" in the jython directory. This will export
 
 
 3. Plotting the result
-========================================================================================================================================
-
+================================================================================================
 To plot the result you'll need matplotlib.pyplot and python3.
 
 Go to the "python" directory and run "python3 plot.py plot_type ../output/filename.csv" with the following value for the parameters:
