@@ -1,31 +1,31 @@
 1. Neural Network weights Optimization
-======================================
+========================================================================================================================================
 
 To run the algorithm on the neural network, first use the command "source init.sh" in the jython directory. This will export the ABIGAL.jar in the CLASSPATH.
 Then simply run "jython waveform.py".
 
 2. Optimization Problem
-=======================
+======================================================================================================================================
 First use the command "source init.sh" in the jython directory. This will export the ABIGAL.jar in the CLASSPATH.
 
-    a. First problem - countones
-    ----------------------------
-
-    To use the algorithm on the first problem, use the "jython countones.py" in the "countones" directory
-
-    b. Secong problem - traveling salesman
+    a. First problem - Traveling salesman
     --------------------------------------
 
     To use the algorithm on the first problem, use the "jython travelingsalesman.py" in the "travelingsalesman" directory
 
-    c. Third problem - knapsack
+    b.Second problem - knapsack
     ---------------------------
 
     To use the algorithm on the first problem, use the "jython knapsack.py" in the "knapsack" directory
+    
+     c. Third - countones
+    ----------------------------
+
+    To use the algorithm on the first problem, use the "jython countones.py" in the "countones" directory
 
 
 3. Plotting the result
-======================
+========================================================================================================================================
 
 To plot the result you'll need matplotlib.pyplot and python3.
 
